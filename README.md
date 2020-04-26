@@ -1,6 +1,6 @@
-这个文件是要用来解释系统架构的(This file is used to explain the system architecture)
+#### 这个文件是要用来解释系统架构的(This file is used to explain the system architecture)
 
-步骤(steps)：
+##### 步骤(steps)：
     1. bll_edited.py 中的 GameCoreController 类是游戏算法的核心部分
        (GameCoreController class in bll_edited.py is the core algorithm of the game )
        变量(variable)：
